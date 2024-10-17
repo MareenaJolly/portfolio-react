@@ -37,7 +37,7 @@ const Hero = () => {
         <p>Thank you for your interest! Please click below to download my resume.</p>
         
         {/* Example: You can include a link to download your resume PDF */}
-        <a href="../../../public/Resume.pdf" download>Download Resume</a>
+        <a href="https://drive.google.com/drive/folders/1_34FD_ltkrlolBXrZ1z_0qSD6Zv_aN8n?usp=drive_link" download>Download Resume</a>
         </div>
       </Modal>
     </div>
